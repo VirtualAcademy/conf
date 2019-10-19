@@ -1,2 +1,2 @@
 # conf
-local server configurations
+local server configurations setup.
